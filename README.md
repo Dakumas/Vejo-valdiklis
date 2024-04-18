@@ -1,2 +1,2 @@
 # Vejo-valdiklis
-Valdiklis skirtas jegaines generuojamos galios, nuolatines itampos apkrovos valdymas, tiesioginiai sildytuvo apkrovai, tenas (aktyvine apkrova).
+Valdiklis skirtas jegaines generuojamos galios, nuolatines itampos apkrovos valdymui, tiesioginiam sildytuvo apkrovai, tenui (aktyvine apkrova).
